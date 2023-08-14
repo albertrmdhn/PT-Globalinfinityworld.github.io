@@ -202,8 +202,8 @@ section {
   margin-top: 3px;
 }
 
-@media (max-width: 768px) {
-  .header .logo span {
+@media (max-width: 375px) {
+  .header span {
     display: none;
   }
 }
