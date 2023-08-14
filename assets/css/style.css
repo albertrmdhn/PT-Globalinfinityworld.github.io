@@ -202,7 +202,7 @@ section {
   margin-top: 3px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 431px) {
   .header span {
     display: none;
   }
