@@ -1508,6 +1508,12 @@ section {
   }
 }
 
+/* @media (max-width: 850px) {
+  .footer .footer-top .footer-info .logo span {
+    color: #013ca3;
+  }
+} */
+
 .footer .footer-top .footer-info {
   margin-bottom: 30px;
 }
@@ -1523,7 +1529,7 @@ section {
 }
 
 .footer .footer-top .footer-info .logo span {
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 700;
   letter-spacing: 1px;
   color: #d39e5a;
